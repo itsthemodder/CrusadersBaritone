@@ -2,6 +2,8 @@
 CrusadersBaritone!
 CrusaderBaritone | Minecraft Bedrock Hunter AI
 
+https://itsthemodder.github.io/CrusadersBaritone/#pipe
+
 CrusaderBaritone is an AI-powered Minecraft Bedrock addon designed to automate gameplay, navigation, combat, mining, and speedrunning tasks.
 
 The addon features an intelligent hunter that can pursue targets, navigate the world, break blocks, collect resources, and perform various actions depending on its implemented systems and configuration.
